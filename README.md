@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Alejandro Lizarraga</h1>
+<h1 align="center">Alejandro Lizarraga</h1>
 
-- 📫 How to reach me **alejandrolgamotta@hotmail.com**
+- 📫 Email: **alejandrolgamotta@hotmail.com**
 - 👨‍💻 All of my projects are available at **https://alejandro-motta-website.netlify.app/**
 
 <div>
